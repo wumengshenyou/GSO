@@ -6,3 +6,4 @@ OptiFusion integrates Simulated Annealing (SA), Genetic Algorithm (GA), and ADAM
 EPJO includes an enhanced differentiable simulation model along with customized memory-efficient techniques, enabling parallel joint optimization of initial structures and image reconstruction networks. 
 Furthermore, it accounts for the complex physical constraints of optical systems and the categorical nature of glass materials to ensure manufacturability.
 
+![image](overview.pdf)
