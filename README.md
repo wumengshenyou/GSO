@@ -8,4 +8,4 @@ Furthermore, it accounts for the complex physical constraints of optical systems
 
 The source code will be made publicly available after the paper is accepted.
 
-![image](overview.pdf)
+![image](overview.jpg)
